@@ -1,0 +1,1 @@
+All images from other folders should be disaplyed here.
